@@ -68,4 +68,7 @@ ssh-add
 ```
 **Crear repositorio para probar autentificación SSH
 
+![prueba](https://user-images.githubusercontent.com/68760595/134398227-084d8ffd-7861-4bbf-be13-fca177a4d8da.png)
+
+
 
