@@ -36,3 +36,6 @@ ls
 3. En Github:
 
 *Settings -> SSH and keys -> new SSH key*
+
+![new](https://user-images.githubusercontent.com/68760595/134393410-3753d290-7fd2-401a-b2e6-2e6c5112c02d.png)
+
