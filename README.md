@@ -1,3 +1,6 @@
+![portada](https://user-images.githubusercontent.com/68760595/134392773-062fbd52-c21d-4641-b7e9-f4d596fe6ff9.png)
+
+
 ## Clave SSH
 
 1. Crear clave SSH -> desde terminal:
