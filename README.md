@@ -33,9 +33,39 @@ ls
  
  ![ls](https://user-images.githubusercontent.com/68760595/134392348-0aaa61d6-05d4-44d6-87d9-83de31fefe60.png)
 
-3. En Github:
+3. Examinar contenido clave pública:
+```
+cat id_rsa.pub
+
+```
+
+4. En Github:
 
 *Settings -> SSH and keys -> new SSH key*
 
 ![new](https://user-images.githubusercontent.com/68760595/134393410-3753d290-7fd2-401a-b2e6-2e6c5112c02d.png)
+
+5. Pegar la clave pública:
+
+**desde ssh-rsa...**
+
+**...hasta nombre usuario**
+
+Add key
+
+6. Iniciar agente -> desde terminal:
+
+```
+eval $(ssh-agent -s)
+
+```
+
+*Agregar clave:*
+
+```
+ssh-add
+
+```
+**Crear repositorio para probar autentificación SSH
+
 
